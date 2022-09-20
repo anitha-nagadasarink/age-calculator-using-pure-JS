@@ -21,5 +21,5 @@
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/tree/Javascript-projects/image)
+![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/tree/Javascript-projects/image/demo.png)
 
